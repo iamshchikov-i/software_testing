@@ -110,6 +110,12 @@ public class matrixTest {
     }
 
     @org.junit.Test
+    public  void throw_when_read_matrix_from_wrong_path() throws IOException {
+
+        assertThrows(IOException.class, () -> matrix.getMatrixFromFile("src/main/resources/m.txt"));
+    }
+
+    @org.junit.Test
     public  void can_read_matrix_from_file() throws IOException {
         double[][] m = {{0, 1, 1}, {2, 3, 5}, {8, 13, 21}};
         double[][] matrix_from_file = matrix.getMatrixFromFile("src/main/resources/m1.txt");
