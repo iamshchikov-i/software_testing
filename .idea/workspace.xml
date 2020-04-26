@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ea1edad-8b2f-4a5b-91b0-68c3811bb7bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b4cNrLbccRLXoqz0qAfdjaFtpP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.paramTest">
+    <configuration name="matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matrix" />
+      <module name="task 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="matrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="matrixTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="matrixTest.can_read_matrix_from_file" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="matrixTest" />
+      <option name="METHOD_NAME" value="can_read_matrix_from_file" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="matrixTest.multiply_matrices_from_file" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="matrixTest" />
+      <option name="METHOD_NAME" value="multiply_matrices_from_file" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="paramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="paramTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.paramTest" />
+        <item itemvalue="JUnit.matrixTest" />
+        <item itemvalue="JUnit.matrixTest.multiply_matrices_from_file" />
+        <item itemvalue="JUnit.matrixTest.can_read_matrix_from_file" />
+        <item itemvalue="Application.matrix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ea1edad-8b2f-4a5b-91b0-68c3811bb7bf" name="Default Changelist" comment="" />
+      <created>1587894769574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587894769574</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1587926128839">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587926128839" />
+    <state x="460" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587926172288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="460" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587926172288" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1587929464286">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587929464286" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1587929464286">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587929464286" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1587929464286">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587929464286" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1587929464286">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587929464286" />
+    <state width="1322" height="333" key="GridCell.Tab.1.bottom" timestamp="1587909072915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="333" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587909072915" />
+    <state width="1322" height="333" key="GridCell.Tab.1.center" timestamp="1587909072915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="333" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587909072915" />
+    <state width="1322" height="333" key="GridCell.Tab.1.left" timestamp="1587909072914">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="333" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587909072914" />
+    <state width="1322" height="333" key="GridCell.Tab.1.right" timestamp="1587909072915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="333" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587909072915" />
+    <state x="408" y="36" key="Maven.ArtifactSearchDialog" timestamp="1587898405946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="408" y="36" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1587898405946" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1587925417986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587925417986" />
+  </component>
+</project>
